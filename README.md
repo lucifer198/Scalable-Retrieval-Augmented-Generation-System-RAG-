@@ -1,9 +1,6 @@
 
 # Scalable Retrieval-Augmented Generation (RAG) System
 
-## Team Members
- - Sai Krishna Kapa (030065592)
-
 ## Tech Stack
 - **Python**: Core language for backend development.
 - **FAISS**: For high-dimensional similarity search and distributed retrieval.
