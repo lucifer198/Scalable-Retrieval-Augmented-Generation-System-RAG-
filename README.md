@@ -3,9 +3,6 @@
 
 ## Team Members
  - Sai Krishna Kapa (030065592)
- - Sai Krishna Kapa (031537023)
- - Sai Krishna Kapa (032208109)
-
 
 ## Tech Stack
 - **Python**: Core language for backend development.
